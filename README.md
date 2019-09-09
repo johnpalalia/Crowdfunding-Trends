@@ -1,3 +1,5 @@
+Tools / Technologies used: Excel
+
 # Kickstarter Analysis
 
 ### Background 
